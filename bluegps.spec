@@ -1,7 +1,7 @@
 Name: bluegps
 Version: 2.0
 Group: Sciences/Geosciences
-Release: %mkrel 1
+Release: %mkrel 2
 Summary: Simple command line tool for the Royaltek RBT-3000 bluetooth GPS receiver
 License: GPL
 URL: http://www.harbaum.org/till/bluegps/
