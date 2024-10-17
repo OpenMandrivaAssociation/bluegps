@@ -6,7 +6,7 @@ Group: Sciences/Geosciences
 Release: 6
 Summary: Simple command line tool for the Royaltek RBT-3000 bluetooth GPS receiver
 License: GPL
-URL: http://www.harbaum.org/till/bluegps/
+URL: https://www.harbaum.org/till/bluegps/
 Source: http://www.harbaum.org/till/bluegps/bluegps-linux-%{version}.tgz
 BuildRequires: bluez-devel
 
